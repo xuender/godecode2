@@ -1,6 +1,6 @@
-GoDecode
-========
+GoDecode2
 [![Build Status](https://travis-ci.org/xuender/godecode2.png)](https://travis-ci.org/xuender/godecode2)
+========
 ASCII transliterations of Unicode text for go lang.
 
 ## How to Use ##
